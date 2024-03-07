@@ -1,10 +1,9 @@
-<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChristopherObocha">Software Engineer</a>, <a href="https://www.linkedin.com/in/christopher-f-c-obocha-368411156/">(Web, Mobile, Security)</a></h1>
+<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChristopherObocha">Software Engineer</a> <a href="https://www.linkedin.com/in/christopher-f-c-obocha-368411156/">(Web, Mobile, Security)</a></h1>
 
 
 <h2>👨‍💻 Mobile Engineering Projects:</h2>
 
-- <b>Electric Vehicle Charging App</b>
-  - [Swarco](https://github.com/ChristopherObocha/goodshape-RN)
+- <b><a href="https://github.com/ChristopherObocha/swarco-RN">Electric Vehicle Charging App</a></b>
 - <b>Employee Wellbeing and Absence Reporting App</b>
   - [GoodShape](https://github.com/ChristopherObocha/goodshape-RN)
 - <b>Nurse Management App</b>
