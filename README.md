@@ -1,6 +1,16 @@
-<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChristopherObocha">Software Engineer</a>, <a href="https://www.linkedin.com/in/christopher-f-c-obocha-368411156/">Cyber Security MSc Student</a></h1>
+<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChristopherObocha">Software Engineer</a>, <a href="https://www.linkedin.com/in/christopher-f-c-obocha-368411156/">(Web, Mobile, Security)</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+
+<h2>👨‍💻 Mobile Engineering Projects:</h2>
+- <b>Electric Vehicle Charging App</b>
+  - [Praciting DS & Algos in Python]()
+- <b>Employee Wellbeing and Absence Reporting App</b>
+  - [International Nurses Management Application](https://github.com/ChristopherObocha/InterN)
+- <b>Nurse Management App</b>
+  - [International Nurses Management Application](https://github.com/ChristopherObocha/InterN)
+
+  
+<h2>👨‍💻 Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]()
