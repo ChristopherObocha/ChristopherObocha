@@ -4,11 +4,8 @@
 <h2>👨‍💻 Mobile Engineering Projects:</h2>
 
 - <b><a href="https://github.com/ChristopherObocha/swarco-RN">Electric Vehicle Charging App</a></b>
-- <b>Employee Wellbeing and Absence Reporting App</b>
-  - [GoodShape](https://github.com/ChristopherObocha/goodshape-RN)
-- <b>Nurse Management App</b>
-  - [InterN](https://github.com/ChristopherObocha/InterN)
-
+- <b><a href="https://github.com/ChristopherObocha/goodshape-RN">Employee Wellbeing and Absence Reporting App</a></b>
+- <b><a href="https://github.com/ChristopherObocha/InterN">Nurse Management Application</a></b>
   
 <h2>👨‍💻 Security Projects:</h2>
 
